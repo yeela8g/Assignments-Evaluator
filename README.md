@@ -44,7 +44,7 @@ Using the program involves the following steps:
 
 ### File Comparison Program
 
-The program utilizes a custom file comparison program (`ex21.c`) written in C. This program is attached to the repository and is used by the main program to compare output files with expected results.
+The program utilizes a files comparison program (`ex21.c`) written in C. This program is attached to the repository and is used by the main program (ex21.c) to compare output files with expected results.
 
 ### Coding Principles
 
